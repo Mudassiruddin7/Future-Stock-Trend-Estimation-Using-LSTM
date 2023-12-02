@@ -96,7 +96,7 @@ Now you are ready to use jupyter on this environment and start with your project
 5.	Install necessary libraries from requirements.txt file provided.
 6.	Run pip install -r requirements.txt or conda install requirements.txt (Requirements.txt is a text file consisting of all the necessary libraries required for executing this python file. If it gives any error while installing libraries, you might need to install them individually.)
 7.	If you want to build your own model for detection, you can go through “lstm.ipynb”. It takes time to build the model from scratch again.
-8.      Type “streamlit run app.py” to get the results.
+8.  Type “streamlit run app.py” to get the results.
 
 # _**Data Description**_
 We scrape the data from Yahoo website using pandas datareader library. You can mention the start date and end date to get the stock price details of that period.
@@ -112,7 +112,7 @@ We scrape the data from Yahoo website using pandas datareader library. You can m
 **All the required data hasn't been provided over here. Please feel free to contact me for any issues. You can also download the dataset from the given link below.**
 
 ### _**Let’s Connect**_
-https://www.linkedin.com/in/mudassiruddin21
+<a href="https://linkedin.com/in/mudassiruddin21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mudassiruddin21" height="30" width="40" /></a>
 
 ![Connect](https://media2.giphy.com/media/l1O6zvqu7O317887HF/source.gif)
 
